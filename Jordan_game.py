@@ -29,3 +29,4 @@ if answer == "nah":
         print(">:-(")
 
 '''
+if answer == "yeah boy"
